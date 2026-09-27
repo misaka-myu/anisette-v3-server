@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "My Anisette",
+      "address": "https://anisette-v3-server-cpxk.onrender.com"
+    }
+  ]
+}
